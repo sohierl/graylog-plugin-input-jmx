@@ -29,4 +29,8 @@ public class GLAttribute {
     public void setLabel(String label) {
         this.label = label;
     }
+    
+    public void test(String toto) {
+           this.label = toto;
+    }
 }
